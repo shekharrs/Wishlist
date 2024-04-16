@@ -18,7 +18,7 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 ## Live Link
 
-makewishlist.vercel.app
+https://makewishlist.vercel.app
 
 
 ## Run Locally
